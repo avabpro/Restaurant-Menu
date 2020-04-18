@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\proko\\source\\repos\\avabpro\\Restaurant-Menu\\RestaurantMenu\\RestaurantMenu.csproj": {}
+    "C:\\Users\\proko\\source\\repos\\avabpro\\Restaurant-Menu\\RestaurantMenu.csproj": {}
   },
   "projects": {
-    "C:\\Users\\proko\\source\\repos\\avabpro\\Restaurant-Menu\\RestaurantMenu\\RestaurantMenu.csproj": {
+    "C:\\Users\\proko\\source\\repos\\avabpro\\Restaurant-Menu\\RestaurantMenu.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\proko\\source\\repos\\avabpro\\Restaurant-Menu\\RestaurantMenu\\RestaurantMenu.csproj",
+        "projectUniqueName": "C:\\Users\\proko\\source\\repos\\avabpro\\Restaurant-Menu\\RestaurantMenu.csproj",
         "projectName": "RestaurantMenu",
-        "projectPath": "C:\\Users\\proko\\source\\repos\\avabpro\\Restaurant-Menu\\RestaurantMenu\\RestaurantMenu.csproj",
+        "projectPath": "C:\\Users\\proko\\source\\repos\\avabpro\\Restaurant-Menu\\RestaurantMenu.csproj",
         "packagesPath": "C:\\Users\\proko\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\proko\\source\\repos\\avabpro\\Restaurant-Menu\\RestaurantMenu\\obj\\",
+        "outputPath": "C:\\Users\\proko\\source\\repos\\avabpro\\Restaurant-Menu\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\proko\\AppData\\Roaming\\NuGet\\NuGet.Config",
